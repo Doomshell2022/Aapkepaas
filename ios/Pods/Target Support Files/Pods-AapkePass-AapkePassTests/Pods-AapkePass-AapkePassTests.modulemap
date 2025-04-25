@@ -1,0 +1,6 @@
+module Pods_AapkePass_AapkePassTests {
+  umbrella header "Pods-AapkePass-AapkePassTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

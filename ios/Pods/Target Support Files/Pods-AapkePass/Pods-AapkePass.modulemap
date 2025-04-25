@@ -1,0 +1,6 @@
+module Pods_AapkePass {
+  umbrella header "Pods-AapkePass-umbrella.h"
+
+  export *
+  module * { export * }
+}

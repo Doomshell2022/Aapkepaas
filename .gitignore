@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+android/
+# Android build folder
+android/.gradle/
+android/app/build/
+*.apk
+*.aab
+*.zip
